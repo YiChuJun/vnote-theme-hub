@@ -13,7 +13,8 @@
 插件：Color Highlight颜色显示
 颜色提取：Faststone Capture屏幕取色
 
-## 相关文件参考
+# 相关文件参考
+## 主题样式
 > 使用```palette.json```进行调配
 
 ## 阅读模式
@@ -29,9 +30,5 @@
 3. 修改主题样式
     1. 打开`palette.json`搜抓取到的颜色代码，替换为自己想要的颜色代码
 
-附上对照表供参考，在线编辑地址：[vnote主题定义文档](https://kdocs.cn/l/sgsmnihByJWO)
-![palette.json对照表](palette.json对照表.png)
-
-
-
-
+附上对照表供参考
+在线编辑地址：[vnote主题定义文档](https://kdocs.cn/l/sgsmnihByJWO)
