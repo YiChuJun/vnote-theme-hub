@@ -18,10 +18,10 @@
             "background-color" : "#282828"
         },
         "TrailingSpace" : {
-            "background-color" : "#a8a8a8"
+            "background-color" : "#303030"
         },
         "Tab" : {
-            "background-color" : "#cfcfcf"
+            "background-color" : "#303030"
         },
         "SelectedText" : {
             "//comment" : "Selected text highlight",
